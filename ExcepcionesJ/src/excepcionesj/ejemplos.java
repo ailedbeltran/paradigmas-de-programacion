@@ -15,7 +15,7 @@ public class ejemplos {
     private int numeroB;
     private String texto;
 
-    // CONSTRUCTOR
+    // CONSTRUCTORES
     public ejemplos(int numeroA, int numeroB, String texto) {
         this.numeroA = numeroA;
         this.numeroB = numeroB;
